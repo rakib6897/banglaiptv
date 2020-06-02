@@ -25,7 +25,6 @@
 #EXTINF:-1,Somoy News https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1,Gaan Bangla https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-
 #EXTINF:-1,STAR PLUS https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1,STAR PLUS HD https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,STAR GOLD https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
@@ -72,7 +71,6 @@
 #EXTINF:-1,IN: STAR SPORTS 1 http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 #EXTINF:-1,ME: STAR MOVIES HD http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
-
 #EXTINF:-1,USA: AAPKA COLORS http://185.246.209.251:9090/colors/index.m3u8?token=test
 #EXTINF:-1,USA: RISHTEY http://185.246.209.251:9090/rishtey/index.m3u8?token=test
 #EXTINF:-1,IN: STAR PLUS HD http://185.246.209.251:9090/starplus/index.m3u8?token=test
@@ -86,14 +84,12 @@
 #EXTINF:-1,zeebusiness http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
 #EXTINF:-1,Zing http://185.246.209.251:9090/zing/index.m3u8?token=test
 #EXTINF:-1,Zee News http://185.246.209.251:9090/zeenews/index.m3u8?token=test
-
 #EXTINF:-1,UK: DISCOVERY HISTORY http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 #EXTINF:-1,UK: DISCOVERY http://178.132.3.162:88/Discovery/video.m3u8?token=test
 #EXTINF:-1,UK: SUPER ONE http://91.92.108.254:8080/udp/239.100.10.224:5000
 #EXTINF:-1,UK: VH1 http://91.92.108.254:8080/udp/239.100.10.105:5000
 #EXTINF:-1,UK: BRAZEERS TV http://91.92.108.254:8080/udp/239.100.10.190:5000
 #EXTINF:-1,UK: DORCEL TV http://91.92.108.254:8080/udp/239.10.10.155:5000
-
 #EXTINF:-1,IN: Steelbird Music http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1,IN: Toronto 360 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1,INT: N TV MOVIES http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
